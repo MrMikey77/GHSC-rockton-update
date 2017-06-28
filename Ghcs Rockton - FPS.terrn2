@@ -9,14 +9,14 @@ SandStormCubeMap = tracks/skyboxcol
 #CaelumConfigFile = RTBM.os
 Gravity = -9.81
 CategoryID = 129
-Version = 1
+Version = 4
 GUID = aa84143c-d3ff-4d09-8d8a-acb04fadc5ae
 
  
 [Authors]
-terrain = Brickman
-Coverting = haselnut116601
-converting2 = Klink
+terrain = Brickman, NickBus60
+Coverting = haselnut116601, NickBus60
+converting2 = Klink, NickBus60
  
 [Objects]
 GHSC - FPS.tobj=
